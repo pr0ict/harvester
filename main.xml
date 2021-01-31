@@ -1,0 +1,14 @@
+{
+  "last_update": "final_2021.01.31",
+  "version":"1.2.12_01.22",
+  "data":"https://raw.githubusercontent.com/pr0ict/harvester/main/config.xml",
+  "data-2":"https://raw.githubusercontent.com/pr0ict/harvester/main/config_2.xml",
+  "expire":1260,
+  "msg":{
+    "link":"https://www.mediafire.com/file/cqovfh1z7tscyso/universal.apk/file",
+    "display":true,
+    "content":"Update available",
+    "type":"I",
+    "update":true
+  }
+}
